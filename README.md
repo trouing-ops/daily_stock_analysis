@@ -148,7 +148,7 @@
 ### 方式二：本地运行 / Docker 部署
 
 ```bash
-# 克隆项目
+# 克隆项目（在GIT BASH环境中执行）
 git clone https://github.com/ZhuLinsen/daily_stock_analysis.git && cd daily_stock_analysis
 
 # 创建一个叫VENV或自定义的虚拟环境（powershell）
