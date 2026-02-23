@@ -151,6 +151,12 @@
 # 克隆项目
 git clone https://github.com/ZhuLinsen/daily_stock_analysis.git && cd daily_stock_analysis
 
+# 创建一个叫VENV或自定义的虚拟环境（powershell）
+python -m venv venv
+
+# 激活虚拟环境
+.\venv\Scripts\Activate.ps1
+
 # 安装依赖
 pip install -r requirements.txt
 
